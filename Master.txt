@@ -1,4 +1,4 @@
-<Version: 1.02>
-/data/test.zip https://undertale.com/game/UndertaleDemo.zip
+<Version: 1.03>
+/data/test.zip https://undertale.com/game/MacUnderTale.zip
 <End of Version>
 
