@@ -1,4 +1,4 @@
 <Version: 1.06>
-/data/BETASTUFF.zip https://www.dropbox.com/s/5sfsuy8irdj308x/SRD_MovieCredits.js?dl=1
+/data/GAMEFIX.zip https://www.dropbox.com/s/5sfsuy8irdj308x/SRD_MovieCredits.js?dl=1
 <End of Version>
 
