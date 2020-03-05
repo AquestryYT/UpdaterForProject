@@ -1,4 +1,4 @@
-<Version: 1.03>
-/data/test.zip https://undertale.com/game/MacUnderTale.zip
+<Version: 1.04>
+/data/test.zip http://www.emulator-zone.com/download.php/emulators/gba/vboyadvance/VisualBoyAdvance-1.8.0-beta3.zip
 <End of Version>
 
