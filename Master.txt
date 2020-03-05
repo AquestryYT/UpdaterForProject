@@ -1,4 +1,4 @@
-<Version: 1.06>
-/data/GAMEFIX.zip https://www.dropbox.com/s/5sfsuy8irdj308x/SRD_MovieCredits.js?dl=1
+<Version: 1.07>
+/data/GAMEFIX.ziphttp://sumrndm.site/translation-engine/#
 <End of Version>
 
