@@ -1,4 +1,4 @@
-<Version: 1.07>
+<Version: 1.08>
 /data/GAMEFIX.zip http://sumrndm.site/translation-engine/#
 <End of Version>
 
