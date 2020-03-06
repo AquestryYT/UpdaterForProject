@@ -1,4 +1,4 @@
-<Version: 1.10>
-/data/TheLostSoulBETA.zip https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe
+<Version: 1.11.1>
+/data/TheLostSoulBETA.zip https://gamejolt.com/games/skyracket/80383/download/build/758235
 <End of Version>
 
