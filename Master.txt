@@ -1,4 +1,4 @@
-<Version: 1.12>
-/data/TheLostSoulBETA12.zip https://buildbot.libretro.com/stable/1.7.5/windows/x86_64/RetroArch-1.7.5-x64-setup.exe
+<Version: 1.13>
+/data/TheLostSoulBETA13.zip https://buildbot.libretro.com/stable/1.7.5/windows/x86_64/RetroArch-1.7.5-x64-setup.exe
 <End of Version>
 
